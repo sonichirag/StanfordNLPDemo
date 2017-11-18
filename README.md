@@ -6,7 +6,7 @@ This will help one who wants to use Stanford NLP in their programs, and this tin
 
 Here is sample Program output :
 
-### <Question : What software languages Chirag know>
+### Question : What software languages Chirag know
 
 ### Program Output :
 
@@ -37,7 +37,7 @@ Line:He knows various languages like Java , Python , R .
 
 
 
-### <Question: what does Chirag do>
+### Question: what does Chirag do
 
 ### Program Output :
 
@@ -71,7 +71,7 @@ Line:Chirag is great software engineer .
 
 
 
-### <Question : Who developed the library of NLP used here>
+### Question : Who developed the library of NLP used here
 
 ### Program Output :
 
