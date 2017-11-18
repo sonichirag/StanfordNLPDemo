@@ -6,9 +6,9 @@ This will help one who wants to use Stanford NLP in their programs, and this tin
 
 Here is sample Program output :
 
-# <Question : What software languages Chirag know>
+### <Question : What software languages Chirag know>
 
-# Program Output :
+### Program Output :
 
 Reading POS tagger model from edu/stanford/nlp/models/pos-tagger/english-left3words/english-left3words-distsim.tagger ... done [1.4 sec].
 Loading classifier from edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [2.0 sec].
@@ -35,11 +35,11 @@ Possible Answer:various
 Final Answer:various
 Line:He knows various languages like Java , Python , R .
 
-------------------------------------------------------------------------------------------------
 
-# <Question: what does Chirag do>
 
-# Program Output :
+### <Question: what does Chirag do>
+
+### Program Output :
 
 Reading POS tagger model from edu/stanford/nlp/models/pos-tagger/english-left3words/english-left3words-distsim.tagger ... done [1.2 sec].
 Loading classifier from edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.7 sec].
@@ -69,11 +69,11 @@ Line:He knows various languages like Java , Python , R .
 Final Answer:software engineer
 Line:Chirag is great software engineer .
 
-------------------------------------------------------------------------------------------------
 
-# <Question : Who developed the library of NLP used here>
 
-# Program Output :
+### <Question : Who developed the library of NLP used here>
+
+### Program Output :
 
 Reading POS tagger model from edu/stanford/nlp/models/pos-tagger/english-left3words/english-left3words-distsim.tagger ... done [1.2 sec].
 Loading classifier from edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [2.0 sec].
