@@ -6,7 +6,7 @@ This will help one who wants to use Stanford NLP in their programs, and this tin
 
 Here is sample Program output :
 
-### Question : What software languages Chirag know
+### Question : What software languages John know
 
 ### Program Output :
 
@@ -26,8 +26,8 @@ INFO: Read 25 rules
 done [0.4 sec].
 
 Sentence Priority Order
-Chirag knows various languages like Java , Python , R . : 4.142857142857142
-Chirag is great software engineer . : 2.619047619047619
+John knows various languages like Java , Python , R . : 4.142857142857142
+John is great software engineer . : 2.619047619047619
 This example uses NLP library developed by Stanford University . : 0.7666666666666666
 
 Possible Answer:various
@@ -37,7 +37,7 @@ Line:He knows various languages like Java , Python , R .
 
 
 
-### Question: what does Chirag do
+### Question: what does John do
 
 ### Program Output :
 
@@ -57,8 +57,8 @@ INFO: Read 25 rules
 done [0.5 sec].
 
 Sentence Priority Order
-Chirag knows various languages like Java , Python , R . : 1.6666666666666665
-Chirag is great software engineer . : 1.6666666666666665
+John knows various languages like Java , Python , R . : 1.6666666666666665
+John is great software engineer . : 1.6666666666666665
 This example uses NLP library developed by Stanford University . : 0.6666666666666666
 
 Possible Answer:languages
@@ -67,7 +67,7 @@ Final Answer:languages
 Line:He knows various languages like Java , Python , R .
 
 Final Answer:software engineer
-Line:Chirag is great software engineer .
+Line:John is great software engineer .
 
 
 
@@ -92,8 +92,8 @@ done [2.0 sec].
 
 Sentence Priority Order
 This example uses NLP library developed by Stanford University . : 5.142857142857142
-Chirag knows various languages like Java , Python , R . : 1.158008658008658
-Chirag is great software engineer . : 1.125
+John knows various languages like Java , Python , R . : 1.158008658008658
+John is great software engineer . : 1.125
 
 Possible Answer:Stanford University
 
